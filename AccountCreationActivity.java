@@ -1,4 +1,4 @@
-package com.adshopper.app;
+ package com.adshopper.app;
 
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
